@@ -1,0 +1,62 @@
+
+
+const filme1 = {
+    favorito: true,
+    nome: 'citzenFour',
+    genero: [
+        'Biografico',
+        'Suspense'],
+    atorPrincipal: 'Snowden',
+    ano: 2014,
+}
+
+const filme2 = {
+    favorito: true,
+    nome: 'Snowden',
+    genero:[
+        'Biografico',
+        'Suspense'],
+    atorPrincipal: 'Joseph Gordon-Levitt',
+    ano: 2016
+}
+
+const filme3 = {
+    favorito: true,
+    nome: 'Fifth Estate',
+    genero: [
+        'Biografico',
+        'Suspense' ],
+    atorPrincipal: 'Benedict Cumberbatch',
+    ano: 2013,
+}
+const filme4 = {
+    favorito: true,
+    nome: 'Perfume The Story OF a Murderer',
+    genero: [
+        'Adaptação Literaria',
+        'Policial'],
+    atorPrincipal:'Ben Wishaw',
+    ano: 2006,
+    
+}
+
+const filme5 = {
+    favorito: true,
+    nome: 'Tinker Tailor Soldier Spy',
+    genero:  [
+        'Adaptação Literaria',
+        'Espionagem'],
+    atorPrincipal: 'Gary Oldman',
+    ano: 2011,
+}
+
+const filme6 = {
+    favorito: true,
+    nome: 'Phantom Of TheOpera',
+    genero:  [
+        'Adaptação Literaria',
+        'Romance'],
+    atorPrincipal: 'Gerard Butler',
+    ano: 2004
+}
+
